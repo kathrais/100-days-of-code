@@ -27,3 +27,13 @@
 
 **Link to work:** [Object Oriented Programming 26/26](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming)
 **Link to work:** [Functional Programming 3/24](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
+
+
+### Day 4: December 15, 2022
+##### Mastering in JavaScript
+
+**Today's Progress**: i suppose i wrote my first independent filter and map functions today without anyones help, i really feel like im understanding and i can also see that, im remembering constantly
+
+**Thoughts:** seeing that i can do stuff without anyones help or without racing anyone is giving me confidence and i also can see success now. i still need a better time managing skills tho. i finally started to feel like i deserve to work as a frontend dev. nothing heals imposter syndrome more than courage and try.
+
+**Link to work:** [Functional Programming 15/24](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
