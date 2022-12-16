@@ -37,3 +37,13 @@
 **Thoughts:** seeing that i can do stuff without anyones help or without racing anyone is giving me confidence and i also can see success now. i still need a better time managing skills tho. i finally started to feel like i deserve to work as a frontend dev. nothing heals imposter syndrome more than courage and try.
 
 **Link to work:** [Functional Programming 15/24](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
+
+
+### Day 5: December 16, 2022
+##### Mastering in JavaScript
+
+**Today's Progress**: i learned math.pow and passed 3 more parts in fcc
+
+**Thoughts:** i was feeling bad for the whole day, i didn't wanted to do something but at the same time i didn't enjoy doing nothing and like this is not enough guests came over, it's midnight and they are still in the house with their noisy kids. i can't focus but i won't left it here. i will continue to do visualizing methods now, doing nothing is worse than failing.
+
+**Link to work:** [Functional Programming 18/24](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
