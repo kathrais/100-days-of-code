@@ -47,3 +47,25 @@
 **Thoughts:** i was feeling bad for the whole day, i didn't wanted to do something but at the same time i didn't enjoy doing nothing and like this is not enough guests came over, it's midnight and they are still in the house with their noisy kids. i can't focus but i won't left it here. i will continue to do visualizing methods now, doing nothing is worse than failing.
 
 **Link to work:** [Functional Programming 18/24](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
+
+
+
+### Day 6: December 17, 2022
+##### Mastering in Programming
+
+**Today's Progress**: learned crity curry, used what ive learned beforehand, finished functional programming in fcc, did 3 more visual js cards
+
+**Thoughts:** internet went off from my 7 year old needs an update computer so i couldn't do much. also i feel lazy these days.
+
+**Link to work:** [Functional Programming 24/24](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
+
+
+### Day 7: December 18, 2022
+##### Mastering in Programming
+
+**Today's Progress**: finished 6 part egex in fcc and did that with w3 documentary support and created 4 visual regex cards
+
+**Thoughts:** i finally feel like hardworker and clever again :D weather affects too much...i really enjoyed working today didn't look at the time and i will continue to work. seeing that i finally can remember faster, write code faster, check documentary little is making me so happy.
+
+**Link to work:** [Regular Expressions 6/33](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)
+**Link to work:** [W3 Schools .match()](https://www.w3schools.com/jsref/jsref_match.asp)
