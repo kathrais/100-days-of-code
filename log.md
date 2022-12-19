@@ -69,3 +69,14 @@
 
 **Link to work:** [Regular Expressions 6/33](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)
 **Link to work:** [W3 Schools .match()](https://www.w3schools.com/jsref/jsref_match.asp)
+
+### Day 8: December 19, 2022
+##### Mastering in Programming
+
+**Today's Progress**: relearned math.max, math.min but this time i understood its usage more and created colorful cards for them. im stuck with reduce till i understand it.
+
+**Thoughts:** i realized that i was doing everything for it to be "done", without understanding it deeply. i couldn't even give an answer back than so i waas always silent. but now i finally learn. today i stuck with reduce. i couldn't understand it before and i can't understand it now but i know it is usefull and i don't want to give up from learning it even if i will never use it. so basically my 1 hour spend on with this problem *****Return the sum of those two numbers plus the sum of all the numbers between them. The lowest number will not always come first.***** and understanding it.
+
+**Link to work:** [Intermadiate Algorithm Scripting 1/21](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)
+**Link to work:** [W3 Schools .reduce()](https://www.w3schools.com/jsref/jsref_reduce.asp)
+
