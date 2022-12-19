@@ -68,6 +68,7 @@
 **Thoughts:** i finally feel like hardworker and clever again :D weather affects too much...i really enjoyed working today didn't look at the time and i will continue to work. seeing that i finally can remember faster, write code faster, check documentary little is making me so happy.
 
 **Link to work:** [Regular Expressions 6/33](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)
+<br>
 **Link to work:** [W3 Schools .match()](https://www.w3schools.com/jsref/jsref_match.asp)
 
 ### Day 8: December 19, 2022
@@ -77,6 +78,7 @@
 
 **Thoughts:** i realized that i was doing everything for it to be "done", without understanding it deeply. i couldn't even give an answer back than so i waas always silent. but now i finally learn. today i stuck with reduce. i couldn't understand it before and i can't understand it now but i know it is usefull and i don't want to give up from learning it even if i will never use it. so basically my 1 hour spend on with this problem *****Return the sum of those two numbers plus the sum of all the numbers between them. The lowest number will not always come first.***** and understanding it.
 
-**Link to work:** [Intermadiate Algorithm Scripting 1/21](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)
+**Link to work:** [Intermadiate Algorithm Scripting 1/21](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
+<br>
 **Link to work:** [W3 Schools .reduce()](https://www.w3schools.com/jsref/jsref_reduce.asp)
 
