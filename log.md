@@ -82,3 +82,16 @@
 <br>
 **Link to work:** [W3 Schools .reduce()](https://www.w3schools.com/jsref/jsref_reduce.asp)
 
+
+### Day 9: December 20, 2022
+##### Mastering in Programming
+
+**Today's Progress**: understood and used .call() and .reduce() focused on pseudocode steps, passed 2 parts in fcc
+
+**Thoughts:** i worked 50mins today. i want to work on design these days and i also have internet connection problems so it creates procrastination and anger and anxiety. im sick of being unorganized im sick of sleeping im sick of waking up late or if i woke up earyly im sick of feeling sleepy all day. im sick of being unemployed. i want to earn money with my skills. my future is so blurry even ai can write code these days. im sick of it im sick of all of it im sick of from everything. it is so hard to keep trying. it is so hard.
+
+**Link to work:** [Intermadiate Algorithm Scripting 3/21](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
+<br>
+**Link to work:** [W3 Schools .call()](https://www.w3schools.com/js/js_function_call.asp)
+
+
