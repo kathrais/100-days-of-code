@@ -95,3 +95,24 @@
 **Link to work:** [W3 Schools .call()](https://www.w3schools.com/js/js_function_call.asp)
 
 
+### Day 10: December 21, 2022
+##### Mastering in Programming
+
+**Today's Progress**: sending the daily tweet
+
+**Thoughts:** did nothing. im feeling sad, depressed, overwhelmed, annoyed. i have internet issues its cutting off randomly, my laptop is old af. i dont have any money to do something.
+
+
+
+### Day 11: December 22, 2022
+##### Mastering in Programming
+
+**Today's Progress**: remembered destructiring, the rest operator, scope, global and local variables
+
+**Thoughts:** i didn't worked whole 1 hour but i did worked on js es6. it was great to do because i understood now. i really need to do these remembering stuff more often because if i work on some project they all almost have the same skills. these days everbody focuses on cheap succes so they want you to do fast stuff so you cant focus on productivity. such a shame. but programming is fun. these days ive been feeling sad and depressed because all of my friends almost got the jobs but im still unemployed and i cant still find a customer. it is really overwhelming. and they all telling me that how they admire me, they wish they have the courage like me and stuff and its just sounds fake.
+
+**Link to work:** [ES6 14/29](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
+
+
+
+
