@@ -114,5 +114,24 @@
 **Link to work:** [ES6 14/29](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
 
 
+### Day 12: December 23, 2022
+##### Mastering in Programming
+
+**Today's Progress**: made dinner and breakfast, did laundry, did cake and other stuff, washed the dishes, took my brother from home to school and school to home
+
+**Thoughts:** i think im having some exam thing from god because these days has been so hard for me. housework is taking too much time and i even forgot myself. i feel lonely and it does not like a strange feeling. i feel like im getting weaker and weaker everyday.
+
+
+
+### Day 13: December 24, 2022
+##### Mastering in Programming
+
+**Today's Progress**: remembered class functions, getters and setters, import export scripts, promises
+
+**Thoughts:** today i felt like sun kissed my cheek and there was a song that made everything silent and it made me happy. i know i don't have to be fast, i know i try my best but somehow sometimes i feel like all of this are worthless. im guessing its because of my environment. oh and i bought a new keyboard and i dont know how did i survive this long without rgb keyboard :) today i finally fully understand js promises and did almost all the things without getting a hint. and when i need a hint at least i know which methods can be used :) i still feel tired and lonely and maybe hopeless but i know even monssoon rains stops for a while and it also causes so many different and durable species :)))) i even enjoy being sad because living is so exciting.
+
+**Link to work:** [ES6 29/29](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
+
+
 
 
