@@ -133,5 +133,15 @@
 **Link to work:** [ES6 29/29](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
 
 
+### Day 14: December 25, 2022
+##### Mastering in Programming
+
+**Today's Progress**: did some stuff with regex, getting used to use es6 more, started to figure it out the steps while coding
+
+**Thoughts:** im getting tired everyday till 10pm and it is very hard to keep going like this but i also enjoy the ride :) im feeling more and more confident about programming, maybe i jump on python soon. knowing that i try my best to achieve my dream even in fckd up situations is giving me the feel of fullfilment. in addition to ride, i also started to enjoy programming. my fears are getting weaker because of trying everyday. i feel like my brain is stopped the defense mechanism and started to getting used to and be better at the situations that im facing because of my dedication and consistency and its making me proud.
+
+**Link to work:** [Intermadiate Algorithm Scripting 5/21](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
+
+
 
 
