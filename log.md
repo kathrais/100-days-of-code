@@ -143,5 +143,26 @@
 **Link to work:** [Intermadiate Algorithm Scripting 5/21](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
 
 
+### Day 15: December 26, 2022
+##### Mastering in Programming
+
+**Today's Progress**: read book and nothing else
+
+**Thoughts:** im tired and i hate missing days
+
+**Link to work:** neurolink to my brain
+
+
+
+### Day 16: December 27, 2022
+##### Mastering in Programming
+
+**Today's Progress**: learned substring method and its usage is similar to slice, replace method, learned that split("") splits by character and split(" ") splits by word, for the first time i saw charcodeat() and fromcharcode() methods 
+
+**Thoughts:** today was kinda hard to understand. i couldn't follow up much but i tried my best. the best thing is now i dont feel insecure about my skills in programming anymore because i know it develops with trying and studying so i don't feel bad at all.
+
+**Link to work:** [Intermadiate Algorithm Scripting 9/21](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
+
+
 
 
