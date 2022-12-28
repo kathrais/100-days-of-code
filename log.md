@@ -165,4 +165,14 @@
 
 
 
+### Day 17: December 28, 2022
+##### Mastering in Programming
+
+**Today's Progress**: learned new Set() method which creates a new set, flat() method which creates new array with all sub-array elements to the specified depth, remembered += thing which made me had nightmares before, i learned that if we are comparing odd and even numbers we can just found the even numbers and than you can filter them, learned that creating array is more slower than using loop, remembered while and for loop difference which is in the while loop initalization is always out of the loop and in for loop it can be in or out  
+
+**Thoughts:** today i guessed 1 solution 100% correct 
+
+**Link to work:** [Intermadiate Algorithm Scripting 12/21](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
+
+
 
