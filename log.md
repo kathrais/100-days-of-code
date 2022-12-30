@@ -176,3 +176,26 @@
 
 
 
+### Day 18: December 29, 2022
+##### Mastering in Programming
+
+**Today's Progress**: did nothing because i was busy with housework and got tired at night
+
+**Thoughts:** i feel like im tired in everyway
+
+**Link to work:** nothing
+
+
+
+### Day 19: December 30, 2022
+##### Mastering in Programming
+
+**Today's Progress**: i realized that using push method is more effective when we are updating an array because it doesnt changes other indexes,
+
+**Thoughts:** im having troubles to understand the classes in intermediate scripting, i tried so hard but i couldn't understand it and i didn't wanted to pass without understanding it so i jumped to python.
+
+**Link to work:** [Intermadiate Algorithm Scripting 13/21](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
+<br>
+[Python for Everybody 4/56](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
+
