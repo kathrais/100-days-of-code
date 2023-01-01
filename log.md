@@ -219,7 +219,9 @@
 
 **Thoughts:** i wish i would've started programming with python. it's going well now and the teacher in the fcc is very fun. im not rushing in anything and i feel like i really can understand the logic of it.
 
-**Link to work:** [W3 Schools Python Excercize 13/95](https://www.w3schools.com/python/exercise.asp?filename=exercise_variables7)
+**Link to work:** [W3 Schools Python Excercise 13/95](https://www.w3schools.com/python/exercise.asp?filename=exercise_variables7)
 <br>
 [Python for Everybody 8/56](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+<br>
+[Python W3 Schools](https://www.w3schools.com/python/python_variables_global.asp)
 
