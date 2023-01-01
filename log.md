@@ -199,3 +199,27 @@
 [Python for Everybody 4/56](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 
 
+
+### Day 20: December 31, 2022
+##### Mastering in Programming
+
+**Today's Progress**: empty
+
+**Thoughts:**
+
+**Link to work:** 
+
+
+
+
+### Day 21: January 1, 2023
+##### Mastering in Programming
+
+**Today's Progress**: learned print(), input(), type (), commenting, int(), float(), order of evaluation, indentation
+
+**Thoughts:** i wish i would've started programming with python. it's going well now and the teacher in the fcc is very fun. im not rushing in anything and i feel like i really can understand the logic of it.
+
+**Link to work:** [W3 Schools Python Excercize 13/95](https://www.w3schools.com/python/exercise.asp?filename=exercise_variables7)
+<br>
+[Python for Everybody 8/56](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
