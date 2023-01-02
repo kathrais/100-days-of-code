@@ -225,3 +225,15 @@
 <br>
 [Python W3 Schools](https://www.w3schools.com/python/python_variables_global.asp)
 
+
+### Day 22: January 2, 2023
+##### Mastering in Programming
+
+**Today's Progress**: learned built-in functions and functions that we define, wrote some functions and while loops, remembered type-string conversions
+
+**Thoughts:** w3 jumps to scopes so i continued from fcc. writing code and trying things on it is really fun and teaching and i've almost never done that before because i was always in a hurry about making things work like they "should be". i write eveything in also vscode. maybe i continue afterwards then i'll add my progress here but now i need to study ui/ux.
+
+**Link to work:**
+[Python for Everybody 11/56](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
+
