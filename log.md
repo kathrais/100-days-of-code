@@ -236,4 +236,23 @@
 **Link to work:**
 [Python for Everybody 11/56](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 
+### Day 22: January 2, 2023
+##### Mastering in Programming
+
+**Today's Progress**: worked on freelance jobs
+
+**Thoughts:** need to be proficent in time management
+
+
+### Day 24: January 4, 2023
+##### Mastering in Programming
+
+**Today's Progress**: finally understood the logic of loops FİNALLY, and i dont know how tha hell did i write code withoud knowing that = not always means equal
+
+**Thoughts:** today was a happy day for me because i finally understood the logic of loops and how can we make them work. im wiriting evey code that i saw even again and again and its working for me to remember the structure!!!
+
+**Link to work:**
+[Python for Everybody 15/56](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
+
 
