@@ -255,4 +255,16 @@
 [Python for Everybody 15/56](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 
 
+### Day 25: January 5, 2023
+##### Mastering in Programming
+
+**Today's Progress**: played with strings,  used lower() replace() startswith() open()-learned how to open a file, quit(), used try() and except() and more understood the values and how they are changing
+
+**Thoughts:** i think programming is like a wine, you have better understanding about some logical things with time and in that time you have to always write code, it doesnt matter its the same or not but it has to be connected to the topic that you have problemn to understand. so i realized this today, more. i want to study more because its getting more fun when i understand it fully :D besides that i also need to study more tho xd. anyway my wrists are started to ache, idk why i dont even study that much. i hope it wont get any worse. see u tmrw <3
+
+**Link to work:**
+[Python for Everybody 19/56](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
+
+
 
