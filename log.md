@@ -267,4 +267,39 @@
 
 
 
+### Day 26: January 6, 2023
+##### Mastering in Programming
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+**Link to work:**
+
+
+
+
+### Day 27: January 7, 2023
+##### Mastering in Programming
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+
+
+### Day 28: January 8, 2023
+##### Mastering in Programming
+
+**Today's Progress**:learned dictionaries and wrote some code about them also had better understanding about split
+
+**Thoughts:** i don't want to work, i don't want to almost do anything, i don't know why. i'm pushing myself but its not productive. i just want to read book and rest. thats it.
+
+**Link to work:**
+[Python for Everybody 22/56](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
+
 
