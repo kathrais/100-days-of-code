@@ -303,3 +303,41 @@
 
 
 
+### Day 29: January 9, 2023
+##### Mastering in Programming
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Link to work:**
+
+
+
+### Day 30: January 10, 2023
+##### Mastering in Programming
+
+**Today's Progress**: list() keys() values() items()
+
+**Thoughts:** i don't want to work, i don't want to almost do anything, i don't know why. i'm pushing myself but its not productive. i just want to read book and rest. thats it.
+
+**Link to work:**
+[Python for Everybody 24/56](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
+
+
+### Day 31: January 11, 2023
+##### Mastering in Programming
+
+**Today's Progress**: tuples sorted() list comprehension regex
+
+**Thoughts:** im tired
+
+**Link to work:**
+[Python for Everybody 27/56](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
+
+
+
+
+
