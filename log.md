@@ -338,6 +338,73 @@
 
 
 
+### Day 32: January 12, 2023
+##### Mastering in Programming
+
+**Today's Progress**: tuples sorted() list comprehension regex
+
+**Thoughts:** im tired
+
+**Link to work:**
+[Python for Everybody 27/56](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
+
+
+
+### Day 33: January 13, 2023
+##### Mastering in Programming
+
+**Today's Progress**: tuples sorted() list comprehension regex
+
+**Thoughts:** im tired
+
+**Link to work:**
+[Python for Everybody 27/56](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
+
+
+
+
+
+### Day 34: January 14, 2023
+##### Mastering in Programming
+
+**Today's Progress**: tuples sorted() list comprehension regex
+
+**Thoughts:** im tired
+
+**Link to work:**
+[Python for Everybody 27/56](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
+
+
+### Day 35: January 15, 2023
+##### Mastering in Programming
+
+**Today's Progress**: tuples sorted() list comprehension regex
+
+**Thoughts:** im tired
+
+**Link to work:**
+[Python for Everybody 27/56](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
+
+
+
+### Day 36: January 16, 2023
+##### Mastering in Programming
+
+**Today's Progress**: networking done
+
+**Thoughts:** im tired
+
+**Link to work:**
+[Python for Everybody 35/56](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+
+
+
+
+
 
 
 
